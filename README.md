@@ -17,6 +17,10 @@
 
 3.-Procedimiento
 
+Como primer paso se procede a dibujar el diagrama del circuito.
+
+![image](https://user-images.githubusercontent.com/93899720/151284469-873efcbe-b6c2-47b5-a168-b8c6f90e6245.png)
+
 
 4.-Video
 

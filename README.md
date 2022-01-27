@@ -32,7 +32,9 @@ materiales a utilizar en el cicruito:
 Ya con todos los materiales se procede a armar el circuito siguiendo el diagrama de nuestro circuito. (Ver video explicativo.)
 
 ![WhatsApp Image 2022-01-26 at 23 27 34](https://user-images.githubusercontent.com/93899720/151292041-057f36c7-49cd-4eae-8d4c-12872b819715.jpeg)
-
+![WhatsApp Image 2022-01-26 at 23 27 23](https://user-images.githubusercontent.com/93899720/151292089-26a7bfe1-39b5-4a6f-9189-b4b6c0b211a1.jpeg)
+![WhatsApp Image 2022-01-26 at 23 26 40](https://user-images.githubusercontent.com/93899720/151292112-a5017fa5-b246-4239-a202-5c45b77f638d.jpeg)
+![WhatsApp Image 2022-01-26 at 23 26 21](https://user-images.githubusercontent.com/93899720/151292128-f73a9fc4-f9b2-426a-9813-014487e1dce2.jpeg)
 
 4.-Video
 

@@ -29,7 +29,7 @@ materiales a utilizar en el cicruito:
 - Condensador ceramico de de 630 V
 - Cable solido
 
-Ya con todos los materiales se procede a armar el circuito siguiendo el diagrama de nuestro circuito.(Ver video explicativo.)
+Ya con todos los materiales se procede a armar el circuito siguiendo el diagrama de nuestro circuito. (Ver video explicativo.)
 
 4.-Video
 

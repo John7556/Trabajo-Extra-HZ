@@ -41,6 +41,12 @@ Ya con todos los materiales se procede a armar el circuito siguiendo el diagrama
 7.-Bibliografía
 
 TRIAC. Aplicación Dimmer (1/2). (2018, 28 marzo). YouTube. https://www.youtube.com/watch?v=qUEQblzZhYs
+
+
 TRIAC. Aplicación Dimmer (2/2). (2018, 29 marzo). YouTube. https://www.youtube.com/watch?v=fGSSLNLKTJ0
+
+
 ⚡Como hacer un Dimmer con DIAC y TRIAC, Paso a Paso en Protoboard. (2020, 29 agosto). YouTube. https://www.youtube.com/watch?v=oxAlCAwnxZo&t=122s
+
+
 Perfil, V. (2018, 7 diciembre). Como hacer un Dimmer ElectrÃ3nico con TRIAC y DIAC | Muy fÃ¡cil paso a paso. Electronica_Ivan_Espinoza. http://www.electronicaivanespinoza.com/2018/12/como-hacer-un-dimmer-electronico-con.html

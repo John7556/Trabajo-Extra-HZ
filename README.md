@@ -21,6 +21,13 @@ Como primer paso se procede a dibujar el diagrama del circuito.
 
 ![image](https://user-images.githubusercontent.com/93899720/151284469-873efcbe-b6c2-47b5-a168-b8c6f90e6245.png)
 
+materiales a utilizar en el cicruito:
+- 1 Potenciometro de 500 k
+- dos resistencias de 10 kΩ y 100 Ω
+- 1 TRIAC
+- 1 DIAC
+- Condensador ceramico de de 630 V
+- Cable solido
 
 4.-Video
 

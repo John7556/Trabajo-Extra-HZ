@@ -87,6 +87,11 @@ Ya con todos los materiales se procede a armar el circuito siguiendo el diagrama
 
 5.-Concluiones
 
+-Se llega a la conclusión que el circuito dimmer cumple su objetivo regulando la intensidad de energía de una bombilla, pero no solo regula lo anteriormente mencionado, sino que puede regular motores y muchas cuestiones más.
+
+-Comparando un simulador con un circuito real se concluye que es mucho mas interactivo realizarlo de forma física ya que se comprende más la teoría y por ende se mejora el entendimiento del estudiante y se reafirma el interés a la materia.  
+
+-Como conclusión general se puede afirmar que cada componente del circuito cumple una función fundamental para el buen funcionamiento del mismo.
 
 
 7.-Bibliografía

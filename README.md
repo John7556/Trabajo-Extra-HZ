@@ -84,6 +84,8 @@ Ya con todos los materiales se procede a armar el circuito siguiendo el diagrama
 
 4.-Video
 
+https://youtu.be/vOy1hd6aUWA
+
 
 5.-Concluiones
 

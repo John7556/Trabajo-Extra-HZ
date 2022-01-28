@@ -70,6 +70,8 @@ Ya con todos los materiales se procede a armar el circuito siguiendo el diagrama
 ![WhatsApp Image 2022-01-27 at 21 56 12](https://user-images.githubusercontent.com/93899720/151479433-b100de31-8b86-4cb2-87c9-27111d719630.jpeg)
 
 
+-Tomas varias del circuito:
+
 
 ![WhatsApp Image 2022-01-26 at 23 27 34](https://user-images.githubusercontent.com/93899720/151292041-057f36c7-49cd-4eae-8d4c-12872b819715.jpeg)
 ![WhatsApp Image 2022-01-26 at 23 27 23](https://user-images.githubusercontent.com/93899720/151292089-26a7bfe1-39b5-4a6f-9189-b4b6c0b211a1.jpeg)

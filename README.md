@@ -3,9 +3,13 @@
 
 1.-Objetivos
 
--entender el funcionamiento de un DIAC y TRIAC y como estos componentes son necesarios para el cercuito.
+ Objetivo General
 
--armar y comprender el funcionamiento del circuto dimmer. 
+-armar y comprender el funcionamiento del circuto dimmer aplicando la teoría ya conocida.
+
+Objetivos Específicos
+
+-entender el funcionamiento de un DIAC y TRIAC y como estos componentes son necesarios para el cercuito.
 
 -demostrar que el circuito dimmer es un regulador de energia.
 

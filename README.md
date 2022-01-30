@@ -9,9 +9,9 @@
 
 Objetivos Específicos
 
--entender el funcionamiento de un DIAC y TRIAC y como estos componentes son necesarios para el cercuito.
+-Entender el funcionamiento de un DIAC y TRIAC y como estos componentes son necesarios para el circuito.
 
--demostrar que el circuito dimmer es un regulador de energia.
+-Justificar el porque un circuito dimmer es un regulador de energia.
 
 2.-Marco Teórico
 

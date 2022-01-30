@@ -5,7 +5,7 @@
 
  Objetivo General
 
--armar y comprender el funcionamiento del circuto dimmer aplicando la teoría ya conocida.
+-Analizar y demostrar el funcionamiento del circuto dimmer aplicando la teoría ya conocida.
 
 Objetivos Específicos
 
